@@ -1,0 +1,6 @@
+2025-04-04 05:12:44.467225 - Received CBT.V508.FILE154.PDS from FILE154.XMI 
+2025-04-04 05:12:44.467905 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE154.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:12:44.468062 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE154.PDS, moved to PDS/$$$DOC
+2025-04-04 05:12:44.468211 - Found @FILE154.txt (text/plain) in CBT.V508.FILE154.PDS, moved to PDS/@FILE154
+2025-04-04 05:12:44.468551 - Found GIMELMNQ.txt (text/plain) in CBT.V508.FILE154.PDS, moved to PDS/GIMELMNQ
+2025-04-04 05:12:44.468681 - Found GIMELMN2.txt (text/plain) in CBT.V508.FILE154.PDS, moved to PDS/GIMELMN2
